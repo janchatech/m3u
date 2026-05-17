@@ -99,6 +99,9 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/2PoEm1x.png",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/w2t8CGT.png",Blu Radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
@@ -117,5 +120,6 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MiVs42N.jpeg",Supermúsica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 
-#EXTINF:-1 tvg-id="DSportsUruguay.uy@SD" tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="Sports",DSports Uruguay
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tCg7owd.png",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+
