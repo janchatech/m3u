@@ -120,6 +120,5 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tCg7owd.png",MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",DSports Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="DEPORTES",DSports Uruguay
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
-
